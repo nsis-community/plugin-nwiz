@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/nsis-community/plugin-nwiz?color=blue&style=for-the-badge)
 
 > [!WARNING]
-> **Work in progress.** This repository holds three plug-ins (Nmwdll, Nzipdll and Nzwdll) and isn't built automatically yet, so there are no releases. The DLLs in `Plugins/` are the originals from the archive.
+> **Work in progress.** This repository holds three plug-ins (Nmwdll, Nzipdll and Nzwdll) and isn't built automatically yet, so there are no releases. The DLLs in `Plugins/x86-ansi/` are the originals from the archive.
 
 > [!NOTE]
 > **Looking for the usage guide?** See [Docs/Nwiz/readme.txt](Docs/Nwiz/readme.txt).
